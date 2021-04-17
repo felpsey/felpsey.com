@@ -17,6 +17,6 @@ jobs:
     - name: Notify server
       uses: joelwmale/webhook-action@2.1.0
       with:
-        url: ${{ secrets.deployment_api_url }}
+        url: "${{ secrets.deployment_api_url }}"
         headers: '{"repository": "felpsey/felpsey.com"}'
         body: '{"event": "deployment", "repository": "felpsey/felpsey.com", "key": "${{ secrets.deployment_api_key }}"}'
