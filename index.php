@@ -15,13 +15,10 @@
         <meta property="og:url" content="https://felpsey.com/">
         <meta property="og:title" content="felpsey">
         <meta property="og:description" content="developer, designer, writing related to moral & ethical policing">
-        <!-- <meta property="og:image" content="/banner.jpg"> -->
 
         <meta property="twitter:url" content="https://felpsey.com/">
         <meta property="twitter:title" content="Ethan Phelps">
         <meta property="twitter:description" content="developer, designer, writing related to moral & ethical policing">
-        <!-- <meta property="twitter:card" content="summary_large_image"> -->
-        <!-- <meta property="twitter:image" content="/banner.jpg"> -->
 
         <link rel="stylesheet" type="text/css" href="./public/css/index.css">
     </head>
