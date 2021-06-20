@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -9,5 +13,5 @@
     margin: auto;
     top: 0; bottom: 0; left: 0; right: 0;
     cursor: pointer;
-    stroke: black;
+    stroke: white;
 }

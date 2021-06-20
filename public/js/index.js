@@ -1,4 +1,4 @@
-var flipped = false;
+var flipped = true;
 
 function flipSwitch(){
     if (flipped) {
